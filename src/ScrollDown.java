@@ -9,6 +9,7 @@ public class ScrollDown {
 	public static void main(String[] args) throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "C:\\selenium\\chromedriver.exe");
 
+		//chnge by mayur
 
         WebDriver driver=new ChromeDriver();
         driver.manage().window().maximize();
