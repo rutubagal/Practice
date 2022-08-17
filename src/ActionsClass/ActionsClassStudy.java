@@ -17,7 +17,7 @@ public class ActionsClassStudy {
 		Thread.sleep(1000);
 		
 		Actions act= new Actions(driver);
-		
+		// Changes made by Vishal Date
 		WebElement AboutUs = driver.findElement(By.linkText("About Us"))	;
 		//AboutUs.click();
 		//act.moveToElement(AboutUs).perform();
