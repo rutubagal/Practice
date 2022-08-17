@@ -10,6 +10,7 @@ public class ScrollDown {
 		System.setProperty("webdriver.chrome.driver", "C:\\selenium\\chromedriver.exe");
 
 		//chnge by mayur
+		//changes by Vishal
 
         WebDriver driver=new ChromeDriver();
         driver.manage().window().maximize();
