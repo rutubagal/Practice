@@ -24,7 +24,7 @@ public class ActionsClassStudy {
 		//act.click().perform();
 		act.moveToElement(AboutUs).click().build().perform();
         
-		
+		// Changes made by Vishal
 		
 		}
 
